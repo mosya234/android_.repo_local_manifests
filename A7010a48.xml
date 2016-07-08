@@ -5,4 +5,8 @@
 
 <project path="vendor/lenovo/A7010a48" name="mohancm100/android_vendor_lenovo_A7010a48" remote="github" revision="master"/>
 
+<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-6.0"/>
+
+<project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" remote="github" revision="cm-12.1"/>
+
 </manifest>
