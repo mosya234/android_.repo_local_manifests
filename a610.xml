@@ -1,0 +1,8 @@
+<manifest>
+<project path="device/lenovo/A7010a48" name="mosya234/android_device_lenovo_a610" remote="github" revision="LineageOS-14.1"/>
+
+<project path="kernel/lenovo/A7010a48" name="mosya234/android_kernel_lenovo_a610" remote="github" revision="LineageOS-14.1"/>
+
+<project path="vendor/lenovo/A7010a48" name="mosya234/android_vendor_lenovo_a610" remote="github" revision="LineageOS-14.1"/>
+
+</manifest>
