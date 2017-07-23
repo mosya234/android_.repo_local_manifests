@@ -1,8 +1,6 @@
 <manifest>
-<project path="device/zte/a610" name="mosya234/android_device_zte_a610" remote="github" revision="LineageOS-14.1"/>
+<project path="device/zte/a610" name="mosya234/android_device_zte_blade_a610" remote="github" revision="LineageOS-14.1"/>
 
-<project path="kernel/zte/a610" name="mosya234/android_kernel_zte_a610" remote="github" revision="LineageOS-14.1"/>
-
-<project path="vendor/zte/a610" name="mosya234/android_vendor_zte_a610" remote="github" revision="LineageOS-14.1"/>
+<project path="vendor/zte/a610" name="mosya234/android_vendor_zte_blade_a610" remote="github" revision="LineageOS-14.1"/>
 
 </manifest>
